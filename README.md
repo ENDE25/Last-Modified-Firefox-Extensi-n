@@ -47,3 +47,9 @@ The extension checks:
 3. **Content Patterns**
    - "Published on July 28, 2023"
    - "Last updated: 2023/07/28"
+
+>[!Warning]
+>This extension provides best-effort date detection. Accuracy depends on:
+>1. Available page metadata
+>2. Site structure consistency  
+>3. Standard date formats  
