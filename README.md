@@ -1,6 +1,6 @@
 # Last Modified Extension
 
-Waiting for Firefox approval...
+Get the Firefox extensión [here](https://addons.mozilla.org/es-ES/firefox/addon/last-modified-extension/)
 
 A browser extension that reveals the true last-modified date of web pages, helping you identify when content was actually published or updated.
 
@@ -9,13 +9,13 @@ A browser extension that reveals the true last-modified date of web pages, helpi
 
 ## Features ✨
 
-- 🔍 **Multi-source detection**  
+- **Multi-source detection**  
   Scans meta tags (`article:published_time`), HTML attributes (`data-pubdate`), and content patterns
-- 📅 **Intelligent date parsing**  
+- **Intelligent date parsing**  
   Recognizes formats like "July 28, 2023" or "2023-07-28"
-- 🛡️ **Privacy first**  
+- 🛡**Privacy first**  
   No tracking, analytics, or data collection
-- 🏷️ **Works on**:
+- **Works on**:
   - News sites (BBC, Wikipedia)
   - Blogs (WordPress, Medium)
   - Documentation pages
@@ -23,7 +23,7 @@ A browser extension that reveals the true last-modified date of web pages, helpi
 ## Installation ⚡
 
 ### Firefox
-1. Install from [Mozilla Add-ons](soon) soon
+1. Install from [Mozilla Add-ons](https://addons.mozilla.org/es-ES/firefox/addon/last-modified-extension/)
 2. Or load manually:
    - Clone this repo
    - Go to `about:debugging#/runtime/this-firefox`
