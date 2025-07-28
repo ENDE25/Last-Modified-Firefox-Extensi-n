@@ -4,7 +4,7 @@ Waiting for Firefox approval...
 
 A browser extension that reveals the true last-modified date of web pages, helping you identify when content was actually published or updated.
 
-<img width="886" height="490" alt="imagen" src="https://github.com/user-attachments/assets/89011646-64a6-4498-a397-e31b0d4c2c79" />
+<img width="443" height="245" alt="imagen" src="https://github.com/user-attachments/assets/89011646-64a6-4498-a397-e31b0d4c2c79" />
 
 
 ## Features ✨
