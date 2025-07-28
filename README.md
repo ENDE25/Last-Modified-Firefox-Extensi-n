@@ -1,4 +1,4 @@
-# Last Modified Extension 🌐⏰
+# Last Modified Extension
 
 Waiting for Firefox approval...
 
