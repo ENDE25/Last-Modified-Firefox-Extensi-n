@@ -7,7 +7,7 @@ A browser extension that reveals the true last-modified date of web pages, helpi
 <img width="443" height="245" alt="imagen" src="https://github.com/user-attachments/assets/89011646-64a6-4498-a397-e31b0d4c2c79" />
 
 
-## Features ✨
+## Features
 
 - **Multi-source detection**  
   Scans meta tags (`article:published_time`), HTML attributes (`data-pubdate`), and content patterns
@@ -20,7 +20,7 @@ A browser extension that reveals the true last-modified date of web pages, helpi
   - Blogs (WordPress, Medium)
   - Documentation pages
 
-## Installation ⚡
+## Installation
 
 ### Firefox
 1. Install from [Mozilla Add-ons](https://addons.mozilla.org/es-ES/firefox/addon/last-modified-extension/)
@@ -33,7 +33,7 @@ A browser extension that reveals the true last-modified date of web pages, helpi
 1. Enable Developer Mode at `chrome://extensions`
 2. Click "Load unpacked" → Select the extension folder
 
-## How It Works 🛠️
+## How It Works
 
 The extension checks:
 1. **HTML Metadata**  
