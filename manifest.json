@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Last Modified",
+  "version": "1.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "last-modified@github.ende25",
+      "strict_min_version": "109.0"
+    }
+  },
+  "description": "Muestra la última fecha de modificación de la página actual",
+  "icons": {
+    "48": "icon.png"
+  },
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  }
+}
